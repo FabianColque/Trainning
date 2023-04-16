@@ -1,0 +1,25 @@
+Arquitecture
+- Componentes do software e suas relações 
+- Infraestrutura do software
+- Estrutura e design do codigo
+- Suporte aos requisitos de negocio
+- Simplificar evoluções no software
+
+Podemos relacionar com requisitos não funcionais
+- Performance 
+- Escalabilidade
+- Disponibilidade
+- Confiabilidade
+- Segurança
+
+
+Tipos
+- MVC
+- Onion
+- Hexagonal
+- Clean Arquitecture
+
+
+
+
+
