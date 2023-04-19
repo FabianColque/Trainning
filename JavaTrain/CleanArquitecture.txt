@@ -19,6 +19,13 @@ Tipos
 - Hexagonal
 - Clean Arquitecture
 
+Clean Arquitecture
+
+- Isolar o código de domínio da aplicação
+- Inversão de dependências
+- Favorece boas práticas de orientação a objetos
+- Código de domínio com alta "testabilidade"
+- Independência de frameworks e detalhes de Infraestrutura
 
 
 
