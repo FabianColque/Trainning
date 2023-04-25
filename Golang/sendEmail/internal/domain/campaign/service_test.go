@@ -71,5 +71,6 @@ func Test_Create_ValidateRepositorySave(t *testing.T){
 
 	_, err := service.Create(newCampaign)
 
+	assert.True(erros.Is(internalerros.ErrInternal, err))
 	assert.Equal("error to save on database", err.Error())
 }
