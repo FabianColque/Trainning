@@ -1,4 +1,3 @@
-package Design Patterns.Creational;
 
 /*
  * Abstract Factory

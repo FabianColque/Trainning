@@ -1,4 +1,4 @@
-package Design Patterns.Structural;
+
 
 /*
  * Bridge
