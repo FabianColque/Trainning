@@ -1,0 +1,8 @@
+Clean Code
+
+- Somos autores do nosso codigo
+- Nomes significativos
+- Evite numeros magicos
+- Utilize booleanos de forma implicita
+- Nao condicionais negativas
+- Encapsule condicionais

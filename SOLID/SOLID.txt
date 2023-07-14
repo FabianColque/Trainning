@@ -1,0 +1,30 @@
+S - Single Responsability Principle
+O - Open-Closed Principle
+L - Liskov Substitution Principle
+I - Interface Segregation Principle
+L - Dependency Inversion Principle 
+
+S - Principio da responsabilidade unica
+O - Principio Aberto-Fechado
+L - Principio da substituicao de Liskov 
+I - Principio da segregacao da interface
+D - Principio da inversao de dependencia
+
+Single Responsability Principle
+    Uma clase deve ter um e somente um motivo para mudar
+
+Open-Closed Principle
+    Objetos ou entidades devem estar abertos para extensao
+    mas fechados para modificacao
+
+Liskov Substitution Principle
+    Uma classe derivada deve ser substituivel por su
+    classe base
+
+Interface Segregation Principle
+    Uma classe nao deve ser forcada a implementar 
+    interfaces e metodos que nao irao utilizar
+
+Dependency Inversion Principle
+    Dependa de abstracoes e nao implementacaoes
+    
